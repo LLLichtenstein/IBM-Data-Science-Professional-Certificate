@@ -11,7 +11,7 @@ Battle of the Neighborhoods.ipynb
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Battle%20of%20the%20Neighborhoods.ipynb
 
 
-## 2. Assignment - Segmenting and Clustering Neighborhoods in Toronto :
+## 2. Assignment - Segmenting and Clustering Neighborhoods in Toronto
 ### Jupyter Notebook: 
 Toronto Neighborhood Clusters.ipynb
 
