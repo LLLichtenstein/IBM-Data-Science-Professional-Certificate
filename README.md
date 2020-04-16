@@ -2,7 +2,8 @@
 IBM Data Science Professional Certificate - Course 9 - Applied Data Science Capstone
 
 ## 1. Capstone Project - Battle of the Neighborhoods
-### Jupyter Notebook: Battle of the Neighborhoods.ipynb
+### Jupyter Notebook: 
+Battle of the Neighborhoods.ipynb
 
 ### Description :
 
@@ -11,7 +12,8 @@ https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master
 
 
 ## 2. Assignment - Segmenting and Clustering Neighborhoods in Toronto :
-### Jupyter Notebook: Toronto Neighborhood Clusters.ipynb
+### Jupyter Notebook: 
+Toronto Neighborhood Clusters.ipynb
 
 ### Description :
 1. scrape Toronto Postal Codes from Wikipedia page, wrangle the data into a pandas dataframe
