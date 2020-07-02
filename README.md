@@ -21,6 +21,8 @@ This project utilizes K Means to cluster neighborhoods. Three clusters are ident
 ### URL to view Folium Maps:
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/Battle%20of%20the%20Neighborhoods.ipynb
 
+### URL to view Blog
+
 
 ## 2. Assignment - Segmenting and Clustering Neighborhoods in Toronto
 ### Jupyter Notebook: 
