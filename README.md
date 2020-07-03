@@ -22,6 +22,8 @@ This project utilizes K Means to cluster neighborhoods. Three clusters are ident
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/Battle%20of%20the%20Neighborhoods.ipynb
 
 ### URL to view Blog
+https://github.com/LLLichtenstein/Coursera_Capstone/blob/final/Blog%20-%20Moving%20to%20Palm%20Beach%20County%20Florida.pdf
+
 ### URL to view Report on LinkedIn
 https://www.linkedin.com/pulse/moving-palm-beach-county-florida-data-analysis-linda-l-lichtenstein
 
