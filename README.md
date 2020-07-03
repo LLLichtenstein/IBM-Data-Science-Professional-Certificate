@@ -22,7 +22,8 @@ This project utilizes K Means to cluster neighborhoods. Three clusters are ident
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/Battle%20of%20the%20Neighborhoods.ipynb
 
 ### URL to view Blog
-
+### URL to view Report on LinkedIn
+https://www.linkedin.com/pulse/moving-palm-beach-county-florida-data-analysis-linda-l-lichtenstein/?trackingId=Vkg3%2BXK7R8i2kmaB0CJxHw%3D%3D
 
 ## 2. Assignment - Segmenting and Clustering Neighborhoods in Toronto
 ### Jupyter Notebook: 
