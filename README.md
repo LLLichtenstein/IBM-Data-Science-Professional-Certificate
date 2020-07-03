@@ -23,7 +23,7 @@ https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/
 
 ### URL to view Blog
 ### URL to view Report on LinkedIn
-https://www.linkedin.com/pulse/moving-palm-beach-county-florida-data-analysis-linda-l-lichtenstein/?trackingId=Vkg3%2BXK7R8i2kmaB0CJxHw%3D%3D
+https://www.linkedin.com/pulse/moving-palm-beach-county-florida-data-analysis-linda-l-lichtenstein
 
 ## 2. Assignment - Segmenting and Clustering Neighborhoods in Toronto
 ### Jupyter Notebook: 
