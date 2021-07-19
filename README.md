@@ -5,7 +5,9 @@
 > >
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%201%20Final%20Project.pdf
 ### Course 2 - Open Source Tools for Data Science <br>
-> > The final project for th
+> >For this assignment I created a Jupyter Notebook which includes both markdown and code (in Python) cells using IBM Watson Studio.<br>
+> >
+> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%202%20-%20Final%20Project%20-%20Jupiter%20notebook.ipynb
 ### Course 3 - Data Science Methodology <br>
 > > The final project for th
 
