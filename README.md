@@ -1,7 +1,35 @@
-# Coursera_Capstone
-IBM Data Science Professional Certificate - Course 9 - Applied Data Science Capstone
+# IBM Data Science Professional Certificate Projects <br>
+## This repository will hold the projects for the following Coursera courses: <br>
+### Course 1 - What is Data Science <br>
+ > > No projects assigned.
+### Course 2 - Open Source Tools for Data Science <br>
+> > The final project for th
+### Course 3 - Data Science Methodology <br>
+> > The final project for th
 
-## 1. Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
+### Course 4 - Python for Data Science and AI <br>
+> > The final project for th
+### Course 5 - Databases and SQL for Data Science <br>
+> > The final project for th
+### Course 6 - Data Analysis with Python <br>
+> > The final project for th
+### Course 7 - Data Visualization with Python <br>
+> > The final project for th
+### Course 8 - Machine Learning with Python <br>
+> > The final project for th
+### Course 9 - Applied Capstone Project <br>
+> > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
+> > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
+> > Description :
+1. scrape Toronto Postal Codes from Wikipedia page, wrangle the data into a pandas dataframe
+2. add latitude and longitude values to the dataframe
+3. perform kmeans clustering on Downtown Toronto postal codes
+
+**URL to view Folium Maps:**
+https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Toronto%20Neighborhood%20Clusters.ipynb
+
+
+#### Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
 ### Jupyter Notebook: 
 Battle of the Neighborhoods.ipynb
 
