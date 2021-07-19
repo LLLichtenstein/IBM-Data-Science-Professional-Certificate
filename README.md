@@ -15,7 +15,7 @@
 ### Course 4 - Python for Data Science and AI <br>
 > > For this project titled, **Analyzing US Economic Data and Building a Dashboard**, I extracted economic data from GDP and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.
 > >
-> > Jupyter Notebook URL: <br>
+> > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br>
 > > Final Dashbook URL: 
 ### Course 5 - Databases and SQL for Data Science <br>
 > > The final project for th
