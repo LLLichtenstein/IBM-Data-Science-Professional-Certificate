@@ -1,7 +1,9 @@
 # IBM Data Science Professional Certificate Projects <br>
 ## This repository will hold the projects for the following Coursera courses: <br>
 ### Course 1 - What is Data Science <br>
- > > No projects assigned.
+> > This essay assignment demonstrates my understanding of what data science is, what data scientists do and what deliverables comprise a data science project.<br>
+> >
+> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%201%20Final%20Project.pdf
 ### Course 2 - Open Source Tools for Data Science <br>
 > > The final project for th
 ### Course 3 - Data Science Methodology <br>
