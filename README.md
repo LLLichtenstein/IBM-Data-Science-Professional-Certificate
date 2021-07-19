@@ -10,8 +10,8 @@
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%202%20-%20Final%20Project%20-%20Jupiter%20notebook.ipynb
 ### Course 3 - Data Science Methodology <br>
 > > In this Assignment, I applied the data science methodology to a hospital-related problem, nosocomial infections or health care-associated infections (HAIs).<br>
-
-> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%203%20Final%20Project%20PDF.pdf
+> >
+> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%203%20Final%20Project.pdf
 ### Course 4 - Python for Data Science and AI <br>
 > > The final project for th
 ### Course 5 - Databases and SQL for Data Science <br>
