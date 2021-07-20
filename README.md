@@ -18,7 +18,14 @@
 > > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br>
 > > Final Dashbook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Dashboard.jpg
 ### Course 5 - Databases and SQL for Data Science <br>
-> > The final project for th
+> > For this assignment I loaded into a DB2 database and executed SQL queries on snap shots of three real world datasets provided by the Chicago Data Portal to answer questions to help me understand the data just like a data scientist would. <br><br>
+> > The three datasets are:<br>
+> > 1. Socioeconomic Indicators in Chicago, which contains a selection of six socioeconomic indicators of public health significance and a “hardship index” for each Chicago community area for the years 2008 – 2012.<br>
+> > 2. Chicago Public Schools, which shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year, and <br>
+> > 3. Chicago Crime Data, which reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to the date the dataset was extracted, minus the most recent seven days.<br>
+> >
+> > NOTE: The downloaded datasets are subsets of the original Chicago Data Portal datasets and have some of the column names modified to be more database friendly to make it easier to complete the assignment.<br><br>
+> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%205%20Final%20Project%20Jupyter%20notebook.ipynb
 ### Course 6 - Data Analysis with Python <br>
 > > The final project for th
 ### Course 7 - Data Visualization with Python <br>
