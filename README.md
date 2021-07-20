@@ -33,7 +33,7 @@
 > > For this assignment, I generate two visualization plots:<br>
 > > 1. The first plot uses the artist layer of Matplotlib to replicate a given bar chart which summarizes the results of a survey conducted to gauge audience interest in different data science topics. <br>
 > > 2. The second plot is a Choropleth map which visualizes crime rates in San Francisco neighborhoods using a GeoJSON file that marks the boundaries of the neighborhoods.<br><br>
-> > Assignment URL:
+> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%207%20Final%20Project%20Jupyter%20notebook.ipynb
 ### Course 8 - Machine Learning with Python <br>
 > > The final project for th
 ### Course 9 - Applied Capstone Project <br>
