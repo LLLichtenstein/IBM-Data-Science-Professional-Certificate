@@ -27,8 +27,8 @@
 > > NOTE: The downloaded datasets are subsets of the original Chicago Data Portal datasets and have some of the column names modified to be more database friendly to make it easier to complete the assignment.<br><br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%205%20Final%20Project%20Jupyter%20notebook.ipynb
 ### Course 6 - Data Analysis with Python <br>
-> > For this assignment, I am a Data Analyst working at a Real Estate Investment Trust which would like to start investing in residential real estate. I am tasked with determining the market price of a house given a set of features and, using IBM Watson Studio, will analyze and predict housing prices by fitting attributes or features such as square footage, number of bedrooms, number of floors, etc. to a Linear Regression Model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br><br>
-> > Assignment URL:
+> > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression Model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br><br>
+> > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%206%20Final%20Project%20Jupyter%20notebook.ipynb
 ### Course 7 - Data Visualization with Python <br>
 > > The final project for th
 ### Course 8 - Machine Learning with Python <br>
