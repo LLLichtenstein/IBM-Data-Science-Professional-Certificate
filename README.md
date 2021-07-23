@@ -50,21 +50,18 @@
 > > Use the visualization library, Folium, to visualize the results.<br><br>
 > > Lab 1 Foursquare API - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%201%20Foursquare%20API.ipynb<br><br>
 > > 2. Use *k*-means clustering:<br>
-> > &emsp;Use *k*-means on a randomly generated dataset, and 
-> > &emsp;Use *k*-means for customer segmentation.<br><br>
+> > &emsp;on a randomly generated dataset, and <br>
+> > &emsp;for customer segmentation.<br><br>
 > > Lab 2 Clustering with k-means - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%202%20Clustering%20with%20k-means.ipynb<br><br>
 > > 3. Convert addresses into their equivalent latitude and longitude values in order to group neighborhoods into clusters.<br>
-> > This lab also includes skills learned in Labs 1 and 2: *k*-means clustering, and Folium.<br><br>
-> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb
+> > This lab also includes skills learned in Labs 1 and 2: <br>
+> > &emsp;*k*-means clustering, and <br>
+> > &emsp;Folium.<br><br>
+> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb<br><br>
 
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
-> > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
-> > Description :
-1. scrape Toronto Postal Codes from Wikipedia page, wrangle the data into a pandas dataframe
-2. add latitude and longitude values to the dataframe
-3. perform kmeans clustering on Downtown Toronto postal codes
-
-**URL to view Folium Maps:**
+> > In this assignment I explore, segment, and cluster neighborhoods in the city of Toronto based on postal code and borough information and then replicate the analysis I did on the New York City dataset. However, unlike New York City, the neighborhood data is not readily available on the internet. But a Wikipedia page does exist that has all the information needed to explore and cluster the neighborhoods in Toronto. In order to get the data into a structured format like the NYC dataset, I scrape the Wikipedia page and wrangle the data, clean the data, and then read it into a *pandas* dataframe.
+> > Assignment URL with Folium Maps:
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Toronto%20Neighborhood%20Clusters.ipynb
 
 
