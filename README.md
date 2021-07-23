@@ -52,7 +52,7 @@
 > > 2. Use *k*-means clustering:<br>
 > > &emsp;Use *k*-means on a randomly generated dataset, and 
 > > &emsp;Use *k*-means for customer segmentation.<br><br>
-> > Lab 2 Clustering with k-means - URL: 
+> > Lab 2 Clustering with k-means - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%202%20Clustering%20with%20k-means.ipynb<br><br>
 
 
 lab 3, 
