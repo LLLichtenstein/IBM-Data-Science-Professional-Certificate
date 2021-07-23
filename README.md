@@ -75,12 +75,13 @@ The goal of the analysis is to provide seniors with information that will help t
 This project utilizes *k*-means to cluster neighborhoods. Three clusters are identified and analyzed.<br><br>
 > > **Part 2 Code and Report**<br>
 > > The second part of the project includes:<br>
-> > &emsp; A full report consisting of all of the following sections:
-> > &emsp; &emsp; Introduction - the business problem,
-> > &emsp; &emsp; Data - the data and its source,
-> > &emsp; &emsp; Methodology - exploratory data analysis and inferential statistical testing discussion,
-> > &emsp; &emsp; Results - results discussion,
-> > &emsp; &emsp; Discussion - observations and recommendations,
+> > &emsp; The code.<br>
+> > &emsp; A full report consisting of all of the following sections:<br>
+> > &emsp; &emsp; Introduction - the business problem,<br>
+> > &emsp; &emsp; Data - the data and its source,<br>
+> > &emsp; &emsp; Methodology - exploratory data analysis and inferential statistical testing discussion,<br>
+> > &emsp; &emsp; Results - results discussion,<br>
+> > &emsp; &emsp; Discussion - observations and recommendations,<br>
 > > &emsp; &emsp; Conclusion.<br>
 Project URL with Folium maps: https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/Battle%20of%20the%20Neighborhoods.ipynb<br><br>
 Blog URL: https://github.com/LLLichtenstein/Coursera_Capstone/blob/final/Blog%20-%20Moving%20to%20Palm%20Beach%20County%20Florida.pdf
