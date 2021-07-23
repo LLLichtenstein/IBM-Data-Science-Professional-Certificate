@@ -63,7 +63,7 @@
 > > Assignment URL with Folium maps:
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Toronto%20Neighborhood%20Clusters.ipynb<br>
 > > #### Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
-> > **Part 1 Business Problem**<br>
+> > *Part 1 Business Problem*<br>
 > > The first part of the project includes:<br>
 > > &emsp; a description of the problem, and <br>
 > > &emsp; a description of the data and how it will be used to solve the problem.<br><br>
@@ -73,7 +73,7 @@ Although there are many factors to consider when moving to a new neighborhood su
 Foursquare provides a variety of categories of venues such as restaurants, shopping, and leisure activities. This study will cluster neighborhoods (municipalities) in Palm Beach County, Florida by venues collected from Foursquare. In addition, median income, median property value, population density, and area (square miles) data will be collected and analyzed.<br><br>
 The goal of the analysis is to provide seniors with information that will help them make a better determination as to which areas they should explore further when considering relocation to Palm Beach County, Florida.<br><br>
 This project utilizes *k*-means to cluster neighborhoods. Three clusters are identified and analyzed.<br><br>
-> > **Part 2 Code and Report**<br>
+> > *Part 2 Code and Report*<br>
 > > The second part of the project includes:<br>
 > > &emsp; The code.<br>
 > > &emsp; A full report consisting of all of the following sections:<br>
@@ -82,6 +82,6 @@ This project utilizes *k*-means to cluster neighborhoods. Three clusters are ide
 > > &emsp; &emsp; Methodology - exploratory data analysis and inferential statistical testing discussion,<br>
 > > &emsp; &emsp; Results - results discussion,<br>
 > > &emsp; &emsp; Discussion - observations and recommendations,<br>
-> > &emsp; &emsp; Conclusion.<br>
+> > &emsp; &emsp; Conclusion.<br><br>
 Project URL with Folium maps: https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/Battle%20of%20the%20Neighborhoods.ipynb<br><br>
 Blog URL: https://github.com/LLLichtenstein/Coursera_Capstone/blob/final/Blog%20-%20Moving%20to%20Palm%20Beach%20County%20Florida.pdf
