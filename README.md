@@ -65,8 +65,8 @@ https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master
 > > #### Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
 > > **Part 1 Business Problem**<br>
 > > The first part of the project includes:<br>
-> > &emsp; A description of the problem and a discussion of the background.<br>
-> > &emsp; A description of the data and how it will be used to solve the problem.<br><br>
+> > &emsp; a description of the problem, and <br>
+> > &emsp; a description of the data and how it will be used to solve the problem.<br><br>
 > > Currently trending, many active seniors, especially those who live in states like New York and New Jersey, once retired, look to relocate to a warmer, less expensive location like Florida. They would like to move to an area where they can still enjoy many of the same activities in their new home as they enjoyed in their northern one, while maintaining a comparable quality of life in terms of affordability and demographics.<br><br>
 An important consideration for active seniors is to move to an area that is close to family and friends, as well as an area that their guests, including grandchildren, can enjoy visiting. For this study, that area will be limited to Palm Beach County, Florida. Palm Beach County is a large area - 2,386 square miles - on the east coast of Florida consisting of 39 municipalities.<br><br>
 Although there are many factors to consider when moving to a new neighborhood such as available social activities, recreational activities, access to healthcare, as well as the crime rate, taxes, affordability, and public amenities including transportation, this study will focus on venue data collected by Foursquare.<br><br>
