@@ -37,7 +37,25 @@
 ### Course 8 - Machine Learning with Python <br>
 > > For this project, I built a classifier in a Jupyter notebook on IBM Watson Studio to predict whether a loan case will be paid off or not. More specifically, I loaded a historical dataset of previous loan applications, cleaned the data, and applied K-Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression algorithms on the data to build my models. I used Jaccard index, F1-score, and Log Loss evaluation metrics to determine the accuracy of each classifier.<br><br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%208%20Final%20Project%20Jupyter%20notebook.ipynb
-### Course 9 - Applied Capstone Project <br>
+### Course 9 - Applied Data Science Capstone<br>
+> > The Capstone Project for this course, Battle of the Neighborhoods, involves the identification of a business problem that requires location data and neighborhood clustering, and the selection of a dataset to analze to solve that business problem. Foursquare location data is leveraged to explore or compare neighborhoods. My project, "Moving to Palm Beach County, Florida", provides seniors with information to help them better determine which neighborhoods they should explore further when considering relocation to that county. <br>
+> > #### Preliminary Skills Required
+> > In order to complete the project, the following skills are necessary:<br>
+> > 1. Create a repository on GitHub and a Jupyter notebook on IBM Watson Studio
+> > 2. Make calls to the Foursquare API including construction of a URL to send a request to the API to:<br> 
+&emsp; search for a specific type of venue, <br>
+&emsp; to explore a particular venue, <br>
+&emsp; to explore a Foursquare user, <br>
+&emsp; to explore a geographical location, and <br>
+&emsp; to get trending venues around a location. <br><br>
+  Also, use of the visualization library, Folium, to visualize the results.<br>
+> > 3. 
+
+k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
+
+
+
+
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
 > > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
 > > Description :
@@ -52,6 +70,8 @@ https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master
 #### Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
 ### Jupyter Notebook: 
 Battle of the Neighborhoods.ipynb
+
+
 
 ### Description :
 Currently trending, many active seniors, especially those who live in states like New York and New Jersey, once retired, look to relocate to a warmer, less expensive location like Florida. They would like to move to an area where they can still enjoy many of the same activities in their new home as they enjoyed in their northern one, while maintaining a comparable quality of life in terms of affordability and demographics.
