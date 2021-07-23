@@ -35,7 +35,8 @@
 > > 2. The second plot is a Choropleth map which visualizes crime rates in San Francisco neighborhoods using a GeoJSON file that marks the boundaries of the neighborhoods.<br><br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%207%20Final%20Project%20Jupyter%20notebook.ipynb
 ### Course 8 - Machine Learning with Python <br>
-> > The final project for th
+> > For this project, I built a classifier in a Jupyter notebook on IBM Watson Studio to predict whether a loan case will be paid off or not. More specifically, I loaded a historical dataset of previous loan applications, cleaned the data, and applied K-Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression algorithms on the data to build my models. I used Jaccard index, F1-score, and Log Loss evaluation metrics to determine the accuracy of each classifier.<br><br>
+> > Assignment URL: 
 ### Course 9 - Applied Capstone Project <br>
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
 > > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
