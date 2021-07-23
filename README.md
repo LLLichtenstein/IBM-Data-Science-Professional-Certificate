@@ -53,12 +53,9 @@
 > > &emsp;Use *k*-means on a randomly generated dataset, and 
 > > &emsp;Use *k*-means for customer segmentation.<br><br>
 > > Lab 2 Clustering with k-means - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%202%20Clustering%20with%20k-means.ipynb<br><br>
-
-
-lab 3, 
-k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
-you will learn how to convert addresses into their equivalent latitude and longitude values. Also, you will use the Foursquare API to explore neighborhoods in New York City. You will use the explore function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. You will use the k-means clustering algorithm to complete this task. Finally, you will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters. 
-> > Lab URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%20Neigborhoods%20in%20NYC.ipynb
+> > 3. Convert addresses into their equivalent latitude and longitude values in order to group neighborhoods into clusters.<br>
+> > This lab also includes skills learned in Labs 1 and 2: *k*-means clustering, and Folium.<br><br>
+> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%20Neigborhoods%20in%20NYC.ipynb
 
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
 > > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
