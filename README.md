@@ -49,6 +49,7 @@
 &emsp; to explore a geographical location, and <br>
 &emsp; to get trending venues around a location. <br><br>
   Also, use of the visualization library, Folium, to visualize the results.<br>
+> > Lab URL: 
 > > 3. 
 
 k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
