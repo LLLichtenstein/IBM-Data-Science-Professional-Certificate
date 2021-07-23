@@ -41,34 +41,20 @@
 > > The Capstone Project for this course, Battle of the Neighborhoods, involves the identification of a business problem that requires location data and neighborhood clustering, and the selection of a dataset to analze to solve that business problem. Foursquare location data is leveraged to explore or compare neighborhoods. My project, "Moving to Palm Beach County, Florida", provides seniors with information to help them better determine which neighborhoods they should explore further when considering relocation to that county. <br>
 > > #### Preliminary Skills Required
 > > In order to complete the project, the following skills are necessary:<br>
-> > 1. Create a repository on GitHub and a Jupyter notebook on IBM Watson Studio
-> > 2. Make calls to the Foursquare API including construction of a URL to send a request to the API to:<br> 
+> > 1. Make calls to the Foursquare API including construction of a URL to send a request to the API to:<br> 
 &emsp; search for a specific type of venue, <br>
 &emsp; to explore a particular venue, <br>
 &emsp; to explore a Foursquare user, <br>
 &emsp; to explore a geographical location, and <br>
-&emsp; to get trending venues around a location. <br><br>
-> > Use the visualization library, Folium, to visualize the results.<br>
-> > **Lab 1: Foursquare API**<br>
-> > Lab 1 URL: 
-> > 4. Use k-means clustering.<br><br>
+&emsp; to get trending venues around a location. <br>
+> > Use the visualization library, Folium, to visualize the results.<br><br>
+> > Lab 1 Foursquare API - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%201%20Foursquare%20API.ipynb<br><br>
+> > 2. Use *k*-means clustering:<br>
+> > &emsp;Use *k*-means on a randomly generated dataset, and 
+> > &emsp;Use *k*-means for customer segmentation.<br><br>
+> > Lab 2 Clustering with k-means - URL: 
 
 
-
-
-
-Lab 2 There are many models for clustering out there. In this lab, we will be presenting the model that is considered the one of the simplest model among them. Despite its simplicity, k-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
-
-Some real-world applications of k-means include:
-
-customer segmentation,
-understand what the visitors of a website are trying to accomplish,
-pattern recognition, and,
-data compression.
-In this lab, we will learn k-means clustering with 3 examples:
-
-k-means on a randomly generated dataset.
-Using k-means for customer segmentation.
 lab 3, 
 k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
 you will learn how to convert addresses into their equivalent latitude and longitude values. Also, you will use the Foursquare API to explore neighborhoods in New York City. You will use the explore function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. You will use the k-means clustering algorithm to complete this task. Finally, you will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters. 
