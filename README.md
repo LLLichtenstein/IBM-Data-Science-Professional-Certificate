@@ -55,7 +55,7 @@
 > > Lab 2 Clustering with k-means - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%202%20Clustering%20with%20k-means.ipynb<br><br>
 > > 3. Convert addresses into their equivalent latitude and longitude values in order to group neighborhoods into clusters.<br>
 > > This lab also includes skills learned in Labs 1 and 2: *k*-means clustering, and Folium.<br><br>
-> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%20Neigborhoods%20in%20NYC.ipynb
+> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb
 
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
 > > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
