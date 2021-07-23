@@ -48,14 +48,31 @@
 &emsp; to explore a Foursquare user, <br>
 &emsp; to explore a geographical location, and <br>
 &emsp; to get trending venues around a location. <br><br>
-  Also, use of the visualization library, Folium, to visualize the results.<br>
-> > Lab URL: 
-> > 3. 
+> > Use the visualization library, Folium, to visualize the results.<br>
+> > **Lab 1: Foursquare API**<br>
+> > Lab 1 URL: 
+> > 4. Use k-means clustering.<br><br>
 
+
+
+
+
+Lab 2 There are many models for clustering out there. In this lab, we will be presenting the model that is considered the one of the simplest model among them. Despite its simplicity, k-means is vastly used for clustering in many data science applications, especially useful if you need to quickly discover insights from unlabeled data.
+
+Some real-world applications of k-means include:
+
+customer segmentation,
+understand what the visitors of a website are trying to accomplish,
+pattern recognition, and,
+data compression.
+In this lab, we will learn k-means clustering with 3 examples:
+
+k-means on a randomly generated dataset.
+Using k-means for customer segmentation.
+lab 3, 
 k-means clustering, which is a form of unsupervised learning. Then you will use clustering and the Foursquare API to segment and cluster the neighborhoods in the city of New York. Furthermore, you will learn how to scrape website and parse HTML code using the Python package Beautifulsoup, and convert data into a pandas dataframe.
-
-
-
+you will learn how to convert addresses into their equivalent latitude and longitude values. Also, you will use the Foursquare API to explore neighborhoods in New York City. You will use the explore function to get the most common venue categories in each neighborhood, and then use this feature to group the neighborhoods into clusters. You will use the k-means clustering algorithm to complete this task. Finally, you will use the Folium library to visualize the neighborhoods in New York City and their emerging clusters. 
+> > Lab URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%20Neigborhoods%20in%20NYC.ipynb
 
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
 > > Jupyter Notebook: Toronto Neighborhood Clusters.ipynb <br>
