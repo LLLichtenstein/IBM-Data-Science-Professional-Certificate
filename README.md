@@ -57,12 +57,11 @@
 > > This lab also includes skills learned in Labs 1 and 2: <br>
 > > &emsp;*k*-means clustering, and <br>
 > > &emsp;Folium.<br><br>
-> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb<br><br>
-
+> > Lab 3 Neigborhoods in New York City - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb<br>
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
-> > In this assignment I explore, segment, and cluster neighborhoods in the city of Toronto based on postal code and borough information and then replicate the analysis I did on the New York City dataset. However, unlike New York City, the neighborhood data is not readily available on the internet. But a Wikipedia page does exist that has all the information needed to explore and cluster the neighborhoods in Toronto. In order to get the data into a structured format like the NYC dataset, I scrape the Wikipedia page and wrangle the data, clean the data, and then read it into a *pandas* dataframe.
+> > In this assignment I explore, segment, and cluster neighborhoods in the city of Toronto based on postal code and borough information and then replicate the analysis I did on the New York City dataset. However, unlike New York City, the neighborhood data is not readily available on the internet. But a Wikipedia page does exist that has all the information needed to explore and cluster the neighborhoods in Toronto. In order to get the data into a structured format like the NYC dataset, I scrape the Wikipedia page and wrangle the data, clean the data, and then read it into a *pandas* dataframe.<br><br>
 > > Assignment URL with Folium Maps:
-https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Toronto%20Neighborhood%20Clusters.ipynb
+https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Toronto%20Neighborhood%20Clusters.ipynb<br><br>
 
 
 #### Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
