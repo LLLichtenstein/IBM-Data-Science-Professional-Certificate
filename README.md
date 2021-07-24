@@ -3,10 +3,11 @@
 > > There is a strong emphasis on applied learning whereby a portfolio of data science projects is built; these data science projects are demonstrated in this repository. All courses, except for the first course, include a series of hands-on labs in the IBM Cloud that give students practical skills with applicability to real jobs, including: <br>
 > > &emsp;Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br>
 > > &emsp;Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.<br> 
-> > &emsp;Projects: **random album generator (Course ?)**, predict housing prices **(Course ?)**, best classifier model **(Course ?)**, battle of neighborhoods **(Course 9)**<br>
-## This repository will hold the projects for the IBM Data Science Professional Certificate courses: <br>
+> > 
+&emsp;Projects: **random album generator (Course ?)**, predict housing prices **(Course ?)**, best classifier model **(Course ?)**, battle of neighborhoods **(Course 9)**<br>
+## Certificate Course Projects: <br>
 ### Course 1 - What is Data Science <br>
-The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, students meet data science practitioners and get an overview of what data science is today.<br><br>
+> > The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, students meet data science practitioners and get an overview of what data science is today.<br><br>
 > > This essay assignment demonstrates my understanding of what data science is, what data scientists do and what deliverables comprise a data science project.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%201%20Final%20Project.pdf
 ### Course 2 - Open Source Tools for Data Science <br>
