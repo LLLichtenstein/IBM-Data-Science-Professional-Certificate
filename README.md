@@ -4,8 +4,8 @@
 > > &emsp;Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br>
 > > &emsp;Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.<br>
 
-&emsp;Projects: **random album generator (Course ?)**, predict housing prices **(Course ?)**, best classifier model **(Course ?)**, battle of neighborhoods **(Course 9)**<br><br>
-> > Certificate https://www.coursera.org/account/accomplishments/professional-cert/CU3AJNGQETTJ
+&emsp;Projects: **random album generator (Course ?)**, predict housing prices **(Course ?)**, best classifier model **(Course ?)**, Battle of the Neighborhoods (Course 9)<br><br>
+> > Certificate https://www.coursera.org/account/accomplishments/professional-cert/CU3AJNGQETTJ<br>
 > > Description adapted from https://www.coursera.org/professional-certificates/ibm-data-science<br>
 ## Certificate Course Projects: <br>
 ### Course 1 - What is Data Science <br>
@@ -15,25 +15,25 @@
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/AGFBXC9DK9FE<br>
 > > Description adapted from https://www.coursera.org/learn/what-is-datascience/home/info
 ### Course 2 - Open Source Tools for Data Science <br>
-What are some of the most popular data science tools, how do you use them, and what are their features? In this course, you'll learn about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will learn about what each tool is used for, what programming languages they can execute, their features and limitations. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R or Scala. To end the course, you will create a final project with a Jupyter Notebook on IBM Watson Studio and demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
-> >For this assignment I created a Jupyter Notebook which includes both markdown and code (in Python) cells using IBM Watson Studio.<br>
-> >
+> > What are some of the most popular data science tools, how do you use them, and what are their features? In this course, students learn about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. They learn about each tool - what it is used for, what programming languages it can execute, and its features and limitations. Students test each tool which are hosted in the cloud on Skills Network Labs by following instructions to run simple code in Python, R or Scala. <br><br>
+> >For this assignment I created a Jupyter Notebook on IBM Watson Studio which includes both Markdown and Python code cells, and shared it on GitHub with my peers.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%202%20-%20Final%20Project%20-%20Jupiter%20notebook.ipynb<br><br>
-> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
 > > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
 ### Course 3 - Data Science Methodology <br>
-Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is either lost or not maximized at all too often, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand.
-
-This course has one purpose, and that is to share a methodology that can be used within data science, to ensure that the data used in problem solving is relevant and properly manipulated to address the question at hand.
-
-Accordingly, in this course, you will learn:
-    - The major steps involved in tackling a data science problem.
-    - The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
-    - How data scientists think!
+> > Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is too often either lost or not maximized. As such, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand. This course presents a methodology applicable to data science which ensures that the data used in problem solving is relevant and properly manipulated to address the question at hand.<br>
+> > Students learn:<br>
+> > &emsp; 1. The major steps involved in tackling a data science problem.<br>
+> > &emsp; 2. The major steps involved in practicing data science, including:<br>
+> > &emsp; &emsp; forming a concrete business or research problem, <br>
+> > &emsp; &emsp; collecting and analyzing data, <br>
+> > &emsp; &emsp; building a model, and <br>
+> > &emsp; &emsp; understanding the feedback after model deployment.<br>
+> > &emsp; 3. How data scientists think!<br><br>
 > > In this Assignment, I applied the data science methodology to a hospital-related problem, nosocomial infections or health care-associated infections (HAIs).<br>
-> >
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%203%20Final%20Project.pdf<br><br>
-> > Course Certificate:
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/PFWRFDBLPQFE<br>
+> > Description adapted from https://www.coursera.org/learn/data-science-methodology/home/info
 ### Course 4 - Python for Data Science and AI <br>
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
