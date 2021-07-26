@@ -6,7 +6,7 @@
 > > &emsp; Projects: <br>
 > > &emsp; &emsp; Analyzing US Economic Data and Building a Dashboard (Course 4), <br>
 > > &emsp; &emsp; House Sales in King County, USA (Course 6), <br>
-> > &emsp; &emsp; best classifier model **(Course ?)**, <br>
+> > &emsp; &emsp; The Best Classifier (Course 8), <br>
 > > &emsp; &emsp; Battle of the Neighborhoods (Course 9)<br><br>
 > > Certificate https://www.coursera.org/account/accomplishments/professional-cert/CU3AJNGQETTJ<br>
 > > Description adapted from https://www.coursera.org/professional-certificates/ibm-data-science<br>
@@ -66,7 +66,7 @@
 > > &emsp; 5. Building machine learning Regression models<br>
 > > &emsp; 6. Building data pipelines<br>
 > >Students learn to use pandas, NumPy and SciPy libraries to work with a sample dataset. Specifically, pandas is used to load, manipulate, analyze, and visualize datasets, and scikit-learn machine learning algorithms are used to build smart models and make predictions.<br><br>
-> > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br><br>
+> > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%206%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
 > > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
@@ -80,33 +80,13 @@ A key data science skill is the ability to tell a compelling story by visualizin
 Course Certificate: https://www.coursera.org/account/accomplishments/verify/QXAANNPXX4YK<br>
 Description adapted from https://www.coursera.org/learn/python-for-data-visualization/home/info
 ### Course 8 - Machine Learning with Python <br>
-This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
-
-In this course, we will be reviewing two main components:
-First, you will be learning about the purpose of Machine Learning and where it applies to the real world. 
-Second, you will get a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms. 
-
-In this course, you practice with real-life examples of Machine learning and see how it affects society in ways you may not have guessed!
-
-By just putting in a few hours a week for the next few weeks, this is what you’ll get.
-1) New skills to add to your resume, such as regression, classification, clustering, sci-kit learn and SciPy 
-2) New projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
-3) And a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media.
-
-If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge upon successful completion of the course.
-> > For this project, I built a classifier in a Jupyter notebook on IBM Watson Studio to predict whether a loan case will be paid off or not. More specifically, I loaded a historical dataset of previous loan applications, cleaned the data, and applied K-Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression algorithms on the data to build my models. I used Jaccard index, F1-score, and Log Loss evaluation metrics to determine the accuracy of each classifier.<br><br>
+> > This course teaches the basics of Machine Learning using python beginning with the purpose of Machine Learning and where it applies to the real world to a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms. Students practice with real-life examples of Machine learning such as regression, classification, clustering, scikit-learn and SciPy. <br><br>
+> > For this project, I built a classifier in a Jupyter notebook on IBM Watson Studio to predict whether a loan case will be paid off or not. More specifically, I loaded a historical dataset of previous loan applications, cleaned the data, and applied K-Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression algorithms on the data to build my models. I used Jaccard index, F1-score, and Log Loss evaluation metrics to determine the accuracy of each classifier.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%208%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
-> > Course Certificate:
-> > Description adapted from
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/FUXSV695E8WR<br>
+> > Description adapted from https://www.coursera.org/learn/machine-learning-with-python/home/info
 ### Course 9 - Applied Data Science Capstone<br>
-This capstone project course will give you a taste of what data scientists go through in real life when working with data. 
-
-You will learn about location data and different location data providers, such as Foursquare. You will learn how to make RESTful API calls to the Foursquare API to retrieve data about venues in different neighborhoods around the world. You will also learn how to be creative in situations where data are not readily available by scraping web data and parsing HTML code. You will utilize Python and its pandas library to manipulate data, which will help you refine your skills for exploring and analyzing data. 
-
-Finally, you will be required to use the Folium library to great maps of geospatial data and to communicate your results and findings.
-
-If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge upon successful completion of the course.  
-
+> > This capstone project course gives the student a taste of what data scientists go through in real life when working with data. Students learn about location data and different location data providers, such as Foursquare. They learn how to make RESTful API calls to the Foursquare API to retrieve data about venues in different neighborhoods around the world. They also learn how to be creative in situations where data are not readily available by scraping web data and parsing HTML code. By utilizing python and its pandas libraries, students refine their skills to manipulate data in order to explore and analyze it. In addition, students use the Folium library to create maps of geospatial data and to communicate their findings and results.<br>
 > > The Capstone Project for this course, Battle of the Neighborhoods, involves the identification of a business problem that requires location data and neighborhood clustering, and the selection of a dataset to analze to solve that business problem. Foursquare location data is leveraged to explore or compare neighborhoods. My project, "Moving to Palm Beach County, Florida", provides seniors with information to help them better determine which neighborhoods they should explore further when considering relocation to that county. <br>
 > > #### Preliminary Skills Required
 > > In order to complete the project, the following skills are necessary:<br>
@@ -121,14 +101,14 @@ If you choose to take this course and earn the Coursera course certificate, you 
 > > 2. Use *k*-means clustering:<br>
 > > &emsp;on a randomly generated dataset, and <br>
 > > &emsp;for customer segmentation.<br><br>
-> > Lab 2 Clustering with k-means - URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%202%20Clustering%20with%20k-means.ipynb<br><br>
+> > Lab 2 Clustering with *k*-means URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%202%20Clustering%20with%20k-means.ipynb<br><br>
 > > 3. Convert addresses into their equivalent latitude and longitude values in order to group neighborhoods into clusters.<br>
 > > This lab also includes skills learned in Labs 1 and 2: <br>
 > > &emsp;*k*-means clustering, and <br>
 > > &emsp;Folium.<br><br>
-> > Lab 3 Neigborhoods in New York City - URL with Folium maps: https://nbviewer.jupyter.org/github/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb<br>
+> > Lab 3 Neigborhoods in New York City URL with Folium maps: https://nbviewer.jupyter.org/github/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%209%20Lab%203%20Neigborhoods%20in%20NYC.ipynb<br>
 > > #### Assignment - Segmenting and Clustering Neighborhoods in Toronto
-> > In this assignment I explore, segment, and cluster neighborhoods in the city of Toronto based on postal code and borough information and then replicate the analysis I did on the New York City dataset. However, unlike New York City, the neighborhood data is not readily available on the internet. But a Wikipedia page does exist that has all the information needed to explore and cluster the neighborhoods in Toronto. In order to get the data into a structured format like the NYC dataset, I scrape the Wikipedia page and wrangle the data, clean the data, and then read it into a *pandas* dataframe.<br><br>
+> > In this assignment I explore, segment, and cluster neighborhoods in the city of Toronto based on postal code and borough information and then replicate the analysis I did on the New York City dataset. However, unlike New York City, the neighborhood data is not readily available on the internet. But a Wikipedia page does exist that has all the information needed to explore and cluster the neighborhoods in Toronto. In order to get the data into a structured format like the NYC dataset, I scrape the Wikipedia page and wrangle the data, clean the data, and then read it into a pandas dataframe.<br><br>
 > > Assignment URL with Folium maps:
 https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/master/Toronto%20Neighborhood%20Clusters.ipynb<br>
 > > #### Capstone Project - Battle of the Neighborhoods - Moving to Palm Beach County, Florida
@@ -154,5 +134,5 @@ This project utilizes *k*-means to cluster neighborhoods. Three clusters are ide
 > > &emsp; &emsp; Conclusion.<br><br>
 > > Project URL with Folium maps: https://nbviewer.jupyter.org/github/LLLichtenstein/Coursera_Capstone/blob/final/Battle%20of%20the%20Neighborhoods.ipynb<br><br>
 > > Blog URL: https://github.com/LLLichtenstein/Coursera_Capstone/blob/final/Blog%20-%20Moving%20to%20Palm%20Beach%20County%20Florida.pdf<br><br>
-> > Course Certificate:
-> > Description adapted from
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/WGZWM2QPJ8AQ<br>
+> > Description adapted from https://www.coursera.org/learn/applied-data-science-capstone/home/info
