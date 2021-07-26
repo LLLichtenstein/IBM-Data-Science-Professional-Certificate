@@ -71,18 +71,14 @@
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
 > > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
 ### Course 7 - Data Visualization with Python <br>
-"A picture is worth a thousand words". We are all familiar with this expression. It especially applies when trying to explain the insight obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data.
-
-One of the key skills of a data scientist is the ability to tell a compelling story, visualizing data and findings in an approachable and stimulating way. Learning how to leverage a software tool to visualize data will also enable you to extract information, better understand the data, and make more effective decisions.
-
-The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
-
-> > For this assignment, I generate two visualization plots:<br>
-> > 1. The first plot uses the artist layer of Matplotlib to replicate a given bar chart which summarizes the results of a survey conducted to gauge audience interest in different data science topics. <br>
-> > 2. The second plot is a Choropleth map which visualizes crime rates in San Francisco neighborhoods using a GeoJSON file that marks the boundaries of the neighborhoods.<br><br>
+> > "A picture is worth a thousand words". We are all familiar with this expression. It especially applies to visualizing analytical insights from both small and large datasets. 
+A key data science skill is the ability to tell a compelling story by visualizing data and analytical findings in an approachable and stimulating way. Visualization software tools enable information extraction in order to better understand the data, and make more effective decisions. This course teaches students how to take data that at first glance has little meaning and to present that data in a form that makes sense to people by using several data visualization libraries in python, namely Matplotlib, Seaborn, and Folium.<br><br>
+> > For this assignment, I generate two visualization plots:
+1. The first plot uses the artist layer of Matplotlib to replicate a given bar chart which summarizes the results of a survey conducted to gauge audience interest in different data science topics. <br>
+2. The second plot is a Choropleth map which visualizes crime rates in San Francisco neighborhoods using a GeoJSON file that marks the boundaries of the neighborhoods.<br>~~~
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%207%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
-> > Course Certificate:
-> > Description adapted from
+Course Certificate: https://www.coursera.org/account/accomplishments/verify/QXAANNPXX4YK<br>
+Description adapted from https://www.coursera.org/learn/python-for-data-visualization/home/info
 ### Course 8 - Machine Learning with Python <br>
 This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
 
