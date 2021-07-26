@@ -73,9 +73,9 @@
 ### Course 7 - Data Visualization with Python <br>
 > > "A picture is worth a thousand words". We are all familiar with this expression. It especially applies to visualizing analytical insights from both small and large datasets. 
 A key data science skill is the ability to tell a compelling story by visualizing data and analytical findings in an approachable and stimulating way. Visualization software tools enable information extraction in order to better understand the data, and make more effective decisions. This course teaches students how to take data that at first glance has little meaning and to present that data in a form that makes sense to people by using several data visualization libraries in python, namely Matplotlib, Seaborn, and Folium.<br><br>
-> > For this assignment, I generate two visualization plots:
-1. The first plot uses the artist layer of Matplotlib to replicate a given bar chart which summarizes the results of a survey conducted to gauge audience interest in different data science topics. <br>
-2. The second plot is a Choropleth map which visualizes crime rates in San Francisco neighborhoods using a GeoJSON file that marks the boundaries of the neighborhoods.<br>~~~
+> > For this assignment, I generate two visualization plots:<br>
+> > &emsp; 1. The first plot uses the artist layer of Matplotlib to replicate a given bar chart which summarizes the results of a survey conducted to gauge audience interest in different data science topics. <br>
+> > &emsp; 2. The second plot is a Choropleth map which visualizes crime rates in San Francisco neighborhoods using a GeoJSON file that marks the boundaries of the neighborhoods.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%207%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
 Course Certificate: https://www.coursera.org/account/accomplishments/verify/QXAANNPXX4YK<br>
 Description adapted from https://www.coursera.org/learn/python-for-data-visualization/home/info
