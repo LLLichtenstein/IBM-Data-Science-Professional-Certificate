@@ -1,10 +1,13 @@
 # IBM Data Science Professional Certificate on Coursera<br>
 > > This professional certificate consists of 9 online courses that teach students the latest data science job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.<br>
 > > There is a strong emphasis on applied learning whereby a portfolio of data science projects is built; these data science projects are demonstrated in this repository. All courses, except for the first course, include a series of hands-on labs in the IBM Cloud that give students practical skills with applicability to real jobs, including: <br>
-> > &emsp;Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br>
-> > &emsp;Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.<br>
-
-&emsp;Projects: **random album generator (Course ?)**, predict housing prices **(Course ?)**, best classifier model **(Course ?)**, Battle of the Neighborhoods (Course 9)<br><br>
+> > &emsp; Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br>
+> > &emsp; Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.<br>
+> > &emsp; Projects: <br>
+> > &emsp; &emsp; Analyzing US Economic Data and Building a Dashboard (Course 4), <br>
+> > &emsp; &emsp; predict housing prices **(Course ?)**, <br>
+> > &emsp; &emsp; best classifier model **(Course ?)**, <br>
+> > &emsp; &emsp; Battle of the Neighborhoods (Course 9)<br><br>
 > > Certificate https://www.coursera.org/account/accomplishments/professional-cert/CU3AJNGQETTJ<br>
 > > Description adapted from https://www.coursera.org/professional-certificates/ibm-data-science<br>
 ## Certificate Course Projects: <br>
@@ -35,27 +38,12 @@
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/PFWRFDBLPQFE<br>
 > > Description adapted from https://www.coursera.org/learn/data-science-methodology/home/info
 ### Course 4 - Python for Data Science and AI <br>
-Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
-
-This course will take you from zero to programming in Python in a matter of hours—no prior programming experience necessary! You will learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules, and create a final project to demonstrate your new skills. 
-
-By the end of this course, you’ll feel comfortable creating basic programs, working with data, and solving real-world problems in Python. You’ll gain a strong foundation for more advanced learning in the field, and develop skills to help advance your career. 
-
-This course can be applied to multiple Specialization or Professional Certificate programs. Completing this course will count towards your learning in any of the following programs: 
-
-IBM Applied AI Professional Certificate 
-
-Applied Data Science Specialization 
-
-IBM Data Science Professional Certificate 
-
-Upon completion of any of the above programs, in addition to earning a Specialization completion certificate from Coursera, you’ll also receive a digital badge from IBM recognizing your expertise in the field.
-> > For this project titled, **Analyzing US Economic Data and Building a Dashboard**, I extracted economic data from GDP and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.
-> >
-> > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br>
+> > Students learn Python fundamentals including data structures and data analysis. They work with data via hands-on exercises throughout the course modules, and create a final project to solve a real-world problem.<br><br>
+> > For this project titled I extracted economic data from GDP and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.<br>
+> > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br><br>
 > > Final Dashboard URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Dashboard.jpg<br><br>
-> > Course Certificate:
-> > Description adapted from
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/3K4PHG3E7NJ3<br>
+> > Description adapted from https://www.coursera.org/learn/python-for-applied-data-science-ai/home/info
 ### Course 5 - Databases and SQL for Data Science <br>
 Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.
 
