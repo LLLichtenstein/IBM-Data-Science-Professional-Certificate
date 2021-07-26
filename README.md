@@ -1,11 +1,11 @@
 # IBM Data Science Professional Certificate on Coursera<br>
-> > This professional certificate consists of 9 online courses that teach students the latest data science job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.<br>
+> > This professional certificate consists of 9 online courses that teach students the latest data science job-ready tools and skills, including open source tools and libraries, python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms through hands-on practice in the IBM Cloud using real data science tools and real-world data sets.<br>
 > > There is a strong emphasis on applied learning whereby a portfolio of data science projects is built; these data science projects are demonstrated in this repository. All courses, except for the first course, include a series of hands-on labs in the IBM Cloud that give students practical skills with applicability to real jobs, including: <br>
-> > &emsp; Tools: Jupyter / JupyterLab, GitHub, R Studio, and Watson Studio <br>
-> > &emsp; Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.<br>
+> > &emsp; Tools: Jupyter / JupyterLab, GitHub, R Studio, and IBM Watson Studio <br>
+> > &emsp; Libraries: pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, scikit-learn, ScipPy, etc.<br>
 > > &emsp; Projects: <br>
 > > &emsp; &emsp; Analyzing US Economic Data and Building a Dashboard (Course 4), <br>
-> > &emsp; &emsp; predict housing prices **(Course ?)**, <br>
+> > &emsp; &emsp; House Sales in King County, USA (Course 6), <br>
 > > &emsp; &emsp; best classifier model **(Course ?)**, <br>
 > > &emsp; &emsp; Battle of the Neighborhoods (Course 9)<br><br>
 > > Certificate https://www.coursera.org/account/accomplishments/professional-cert/CU3AJNGQETTJ<br>
@@ -18,8 +18,8 @@
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/AGFBXC9DK9FE<br>
 > > Description adapted from https://www.coursera.org/learn/what-is-datascience/home/info
 ### Course 2 - Open Source Tools for Data Science <br>
-> > What are some of the most popular data science tools, how do you use them, and what are their features? In this course, students learn about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. They learn about each tool - what it is used for, what programming languages it can execute, and its features and limitations. Students test each tool which are hosted in the cloud on Skills Network Labs by following instructions to run simple code in Python, R or Scala. <br><br>
-> >For this assignment I created a Jupyter Notebook on IBM Watson Studio which includes both Markdown and Python code cells, and shared it on GitHub with my peers.<br>
+> > What are some of the most popular data science tools, how do you use them, and what are their features? In this course, students learn about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and IBM Watson Studio. They learn about each tool - what it is used for, which programming languages it can execute, and its features and limitations. Students test each tool which are hosted in the cloud on Skills Network Labs by following instructions to run simple code in python, R or Scala. <br><br>
+> >For this assignment I created a Jupyter Notebook on IBM Watson Studio which includes both Markdown and python code cells, and shared it on GitHub with my peers.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%202%20-%20Final%20Project%20-%20Jupiter%20notebook.ipynb<br><br>
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
 > > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
@@ -38,53 +38,38 @@
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/PFWRFDBLPQFE<br>
 > > Description adapted from https://www.coursera.org/learn/data-science-methodology/home/info
 ### Course 4 - Python for Data Science and AI <br>
-> > Students learn Python fundamentals including data structures and data analysis. They work with data via hands-on exercises throughout the course modules, and create a final project to solve a real-world problem.<br><br>
-> > For this project titled I extracted economic data from GDP and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.<br>
+> > Students learn python fundamentals including data structures and data analysis. They work with data via hands-on exercises throughout the course modules, and create a final project to solve a real-world problem.<br><br>
+> > For this project I extracted economic data from GDP (Gross Domestic Product) and unemployment datasets. The impact of changes in GDP impacts the unemployment rate is displayed in a dashboard.<br>
 > > Jupyter Notebook URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Jupyter%20notebook.ipynb <br><br>
 > > Final Dashboard URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%204%20Final%20Project%20Dashboard.jpg<br><br>
 > > Course Certificate: https://www.coursera.org/account/accomplishments/verify/3K4PHG3E7NJ3<br>
 > > Description adapted from https://www.coursera.org/learn/python-for-applied-data-science-ai/home/info
 ### Course 5 - Databases and SQL for Data Science <br>
-Much of the world's data resides in databases. SQL (or Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. A working knowledge of databases and SQL is a must if you want to become a data scientist.
-
-The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
-
-The emphasis in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
-
-No prior knowledge of databases, SQL, Python, or programming is required.
-
-Anyone can audit this course at no-charge. If you choose to take this course and earn the Coursera course certificate, you can also earn an IBM digital badge upon successful completion of the course.
-> > For this assignment I loaded into a DB2 database and executed SQL queries on snap shots of three real world datasets provided by the Chicago Data Portal to answer questions to help me understand the data just like a data scientist would. <br><br>
-> > The three datasets are:<br>
+> > Much of the world's data resides in databases. SQL (Structured Query Language) is a powerful language which is used for communicating with and extracting data from databases. This course introduces relational database concepts in order to learn and apply a foundational knowledge of the SQL language while performing SQL access in a data science environment. The emphasis in this course is hands-on and practical learning. As such, students work with real databases, real data science tools, and real-world datasets. They create a database instance in the cloud, and through a series of hands-on labs practice building and running SQL queries. Students also learn how to access databases from Jupyter notebooks using SQL and python.<br><br>
+> > For this assignment I loaded snap shots of three real world datasets provided by the Chicago Data Portal into a DB2 database and executed SQL queries to answer questions to help me understand the data as a data scientist would. <br>
+> > The three datasets are:
 > > 1. Socioeconomic Indicators in Chicago, which contains a selection of six socioeconomic indicators of public health significance and a “hardship index” for each Chicago community area for the years 2008 – 2012.<br>
 > > 2. Chicago Public Schools, which shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year, and <br>
 > > 3. Chicago Crime Data, which reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to the date the dataset was extracted, minus the most recent seven days.<br>
 > >
 > > NOTE: The downloaded datasets are subsets of the original Chicago Data Portal datasets and have some of the column names modified to be more database friendly to make it easier to complete the assignment.<br><br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%205%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
-> > Course Certificate:
-> > Description adapted from
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/QRM3SPAYSTA4<br>
+> > Description adapted from https://www.coursera.org/learn/sql-data-science/home/info
 ### Course 6 - Data Analysis with Python <br>
-Learn how to analyze data using Python. This course will take you from the basics of Python to exploring many different types of data. You will learn how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more!
-
-Topics covered:
-
-1) Importing Datasets
-2) Cleaning the Data
-3) Data frame manipulation
-4) Summarizing the Data
-5) Building machine learning Regression models
-6) Building data pipelines
-
- Data Analysis with Python will be delivered through lecture, lab, and assignments. It includes following parts:
-
-Data Analysis libraries: will learn to use Pandas, Numpy and Scipy libraries to work with a sample dataset. We will introduce you to pandas, an open-source library, and we will use it to load, manipulate, analyze, and visualize cool datasets. Then we will introduce you to another open-source library, scikit-learn, and we will use some of its machine learning algorithms to build smart models and make cool predictions.
-
-If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge.  
-> > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression Model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br><br>
+> > Students learn how to analyze data using python from the basics of python to exploring different types of data including data preparation, simple statistical analysis, data visualization, and future trend prediction.<br>
+> > Topics covered include:<br>
+> > &emsp; 1. Importing datasets<br>
+> > &emsp; 2. Cleaning the data<br>
+> > &emsp; 3. Data frame manipulation<br>
+> > &emsp; 4. Summarizing the data<br>
+> > &emsp; 5. Building machine learning Regression models<br>
+> > &emsp; 6. Building data pipelines<br>
+> >Students learn to use pandas, NumPy and SciPy libraries to work with a sample dataset. Specifically, pandas is used to load, manipulate, analyze, and visualize datasets, and scikit-learn machine learning algorithms are used to build smart models and make predictions.<br><br>
+> > For this assignment, I am a data analyst working at a real estate investment trust which invests in residential real estate. I am tasked with determining the market price of homes given a set of features such as square footage, number of bedrooms, number of floors, etc. Using IBM Watson Studio, I analyze and predict housing prices by fitting these attributes or features to a Linear Regression model. The dataset used contains house sale prices for King County, which includes Seattle, for homes sold between May 2014 and May 2015.<br><br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%206%20Final%20Project%20Jupyter%20notebook.ipynb<br><br>
-> > Course Certificate:
-> > Description adapted from
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
+> > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
 ### Course 7 - Data Visualization with Python <br>
 "A picture is worth a thousand words". We are all familiar with this expression. It especially applies when trying to explain the insight obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data.
 
