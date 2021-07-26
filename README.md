@@ -5,6 +5,7 @@
 > > &emsp;Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.<br>
 
 &emsp;Projects: **random album generator (Course ?)**, predict housing prices **(Course ?)**, best classifier model **(Course ?)**, battle of neighborhoods **(Course 9)**<br><br>
+> > Certificate https://www.coursera.org/account/accomplishments/professional-cert/CU3AJNGQETTJ
 > > Description adapted from https://www.coursera.org/professional-certificates/ibm-data-science<br>
 ## Certificate Course Projects: <br>
 ### Course 1 - What is Data Science <br>
@@ -18,8 +19,8 @@ What are some of the most popular data science tools, how do you use them, and w
 > >For this assignment I created a Jupyter Notebook which includes both markdown and code (in Python) cells using IBM Watson Studio.<br>
 > >
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%202%20-%20Final%20Project%20-%20Jupiter%20notebook.ipynb<br><br>
-> > Course Certificate:
-> > Description adapted from
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G
+> > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
 ### Course 3 - Data Science Methodology <br>
 Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is either lost or not maximized at all too often, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand.
 
