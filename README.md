@@ -21,8 +21,8 @@
 > > What are some of the most popular data science tools, how do you use them, and what are their features? In this course, students learn about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and IBM Watson Studio. They learn about each tool - what it is used for, which programming languages it can execute, and its features and limitations. Students test each tool which are hosted in the cloud on Skills Network Labs by following instructions to run simple code in python, R or Scala. <br><br>
 > >For this assignment I created a Jupyter Notebook on IBM Watson Studio which includes both Markdown and python code cells, and shared it on GitHub with my peers.<br>
 > > Assignment URL: https://github.com/LLLichtenstein/IBM-Data-Science-Professional-Certificate/blob/master/Course%202%20-%20Final%20Project%20-%20Jupiter%20notebook.ipynb<br><br>
-> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/URYL6QJ99R6G<br>
-> > Description adapted from https://www.coursera.org/learn/data-analysis-with-python/home/info
+> > Course Certificate: https://www.coursera.org/account/accomplishments/verify/PUWV8EMDTDKT<br>
+> > Description adapted from https://www.coursera.org/learn/open-source-tools-for-data-science/home/info
 ### Course 3 - Data Science Methodology <br>
 > > Despite the recent increase in computing power and access to data over the last couple of decades, our ability to use the data within the decision making process is too often either lost or not maximized. As such, we don't have a solid understanding of the questions being asked and how to apply the data correctly to the problem at hand. This course presents a methodology applicable to data science which ensures that the data used in problem solving is relevant and properly manipulated to address the question at hand.<br>
 > > Students learn:<br>
